@@ -57,7 +57,7 @@ The goal of this notebook is to:
     -   A `Trainer` is set up with `max_steps=10000`, `precision="16-mixed"`, and includes `ModelCheckpoint` and `TensorBoardLogger` callbacks.
 
 5.  **Training Execution**: The model is trained for 10,000 steps using `trainer.fit()`.
-   <img width="1202" height="367" alt="image" src="https://github.com/user-attachments/assets/f8450f57-a22a-4525-96a6-8ec3b6a0cf9b" />
+   <img width="1116" height="357" alt="image" src="https://github.com/user-attachments/assets/f0cd4206-10bb-48e8-a7cf-49744ae32045" />
 
 
 ## Evaluation:
